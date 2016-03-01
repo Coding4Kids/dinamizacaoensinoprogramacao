@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /
+---
+
 ### Bem-vindo à Dinamização do Ensino de Programação.  
 
 ![Hello World](http://www.cryptprogramming.com/wp-content/uploads/2014/12/hello-world_cryptprogramming.jpg)  
