@@ -1,0 +1,122 @@
+---
+layout: post
+title:  "Bem-vindo à Dinamização do Ensino de Programação"
+date:   2016-03-01 18:30:56 +0000
+categories: programa
+---
+## Bem-vindo à Dinamização do Ensino de Programação.  
+
+[![Bill Gates on Teaching Kids to Code](http://img.youtube.com/vi/EwxSPm9rNSQ/0.jpg)](https://www.youtube.com/watch?v=EwxSPm9rNSQ)
+
+O Ensino de Programação desde cedo nas escolas é uma das áreas com maior crescimento à escala mundial. Qualquer escola atualmente sente uma necessidade premente de se posicionar com o futuro no horizonte, quer para satisfazer os estudantes, quer para agilizar o trabalho dentro da própria escola. Muitas vezes, apenas uma curta e eficaz formação específica, com mão-de-obra especializada em Tecnologias de Informação e Comunicação, consegue-se motivar muito os alunos para a aprendizagem da programação recorrendo a planos com tecnologias muito atuais e de baixo custo.  
+
+Como tal, esta proposta de intervenção pedagógica propõe suprimir esta lacuna de conhecimento nos participantes, fornecendo instrumentos e noções práticas de novas tecnologias, garantindo assim um desenvolvimento acompanhado destas capacidades. Deste modo, esta formação munirá os seus formandos de competências que lhes possibilitarão desenvolver e dinamizar o ensino da programação e colaboração em projetos de software e hardware nas suas turmas.  
+
+### Efeitos a produzir  
+
+Com esta formação pretende-se que os formandos:  
+* Reconheçam a importância do ensino da programação  
+* Reconheçam novas oportunidades de aprendizagem na área das novas tecnologias  
+* Reconheçam as várias plataformas disponíveis para dinamizar o ensino da programação  
+
+Pretende-se ainda que os formandos adquiram conhecimentos e capacidades em:  
+* Desenvolvimento de um plano de aula na área da programação  
+* Desenvolvimento de conhecimentos de manipulação de periféricos de hardware, em concreto Raspberry Pi  
+* Desenvolvimento de conhecimentos de ferramentas colaborativas  
+
+No final desta formação, os formandos deverão ser capazes de:  
+* Compreender os conceitos fundamentais associados ao ensino da programação  
+* Distinguir os modos de programação individual e em pares  
+* Compreender a importância da gestão de projetos e relacioná-la com a colaboração  
+* Conhecer as várias ferramentas de livre acesso disponíveis para o ensino de programação  
+* Instalar com sucesso as ferramentas de programação no Raspberry Pi  
+* Compreender a importância dos vários módulos de hardware disponíveis para Raspberry Pi  
+* Conceber, ao longo da formação, de um modo criativo e distintivo, um plano de aula com recurso a um projeto prático desenvolvido a partir das ferramentas abordadas na formação  
+
+### Plano  
+
+|#  |Título  | Link  |
+|---|---|---|  
+|**1.**  |**Introdução ao Ensino da Programação**  |[**Ver mais**](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-ao-Ensino-da-Programação)  |  
+|1.1.  |Ensino da Programação  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-ao-Ensino-da-Programação)  |  
+|1.2.  |Algoritmia  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-ao-Ensino-da-Programação)  |  
+|1.3.  |Iniciativas Mundiais   |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-ao-Ensino-da-Programação)  |   
+|1.4.  |Arranque do Projeto Global  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-ao-Ensino-da-Programação)  |  
+|**2.**  |**Introdução às Ferramentas Colaborativas**  |[**Ver mais**](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-às-Ferramentas-Colaborativas)  |
+|2.1.  |Google Drive  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-às-Ferramentas-Colaborativas)  |  
+|2.2.  |GitHub  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-às-Ferramentas-Colaborativas)  |  
+|2.3.  |Open edX/Moodle  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-às-Ferramentas-Colaborativas)  |  
+|2.4.  |Primeiro checkpoint do Projeto Global  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-às-Ferramentas-Colaborativas)  |  
+|**3.**  |**Introdução ao Raspberry Pi**  |[**Ver mais**](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-ao-Raspberry-Pi)  |
+|3.1.  |O que é o Raspberry Pi  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-ao-Raspberry-Pi)  |  
+|3.2.  |Software para o Raspberry Pi  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-ao-Raspberry-Pi)  |  
+|3.3.  |Hardware para o Raspberry Pi  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-ao-Raspberry-Pi)  |  
+|3.4.  |Segundo checkpoint do Projeto Global  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Introdução-ao-Raspberry-Pi)  |  
+|**4.**  |**Projetos de Programação em Grupo**  |[**Ver mais**](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Projetos-de-Programação-em-Grupo)  |
+|4.1.  |Dinâmicas de colaboração  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Projetos-de-Programação-em-Grupo)  |  
+|4.2.  |Exemplos de projectos didáticos  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Projetos-de-Programação-em-Grupo)  |  
+|4.3.  |Ferramentas de apoio à programação  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Projetos-de-Programação-em-Grupo)  |  
+|4.4.  |Desenvolvimento dos projetos globais  |[Ver mais](https://github.com/NunoFilipeSantos/dinamizacaoensinoprogramacao/wiki/Projetos-de-Programação-em-Grupo)  |  
+
+### Metodologias  
+
+### Estrutura da realização das sessões
+
+1. Presencial inicial (8h)  
+2. Semi-presencial: online, síncrono e a distância (13h)  
+3. Presencial intermédio (8h)  
+4. Semi-presencial: online, síncrono e a distância (12h)  
+5. Presencial final e avaliação (9h)  
+
+### Calendarização
+
+Período de realização da acção durante o mesmo ano escolar: Entre Março e Abril de 2016    
+Número de sessões previstas por mês: 4  
+
+Número de horas previstas por cada tipo de sessões:  
+* Sessões presenciais conjuntas: 25 horas  
+* Sessões semi-presenciais: 25 horas  
+
+### Avaliação  
+
+Elementos de Avaliação:  
+
+1. Participação presencial e online  
+2. Produtos resultantes da acção (disponibilizados no ambiente Moodle das disciplinas leccionadas)  
+3. Auto-avaliação (relatório de reflexão crítica)  
+
+***
+
+* Avaliação pelo formador  
+* Avaliação pelos formandos  
+* Avaliação por avaliador externo  
+
+***
+
+Avaliação quantitativa, numa escala de 1 a 10  
+
+### Bibliografia  
+
+1. Daniel Chandler. Technological or media determinism, 1995. URL: http://www.waena.org/ktm/week1/TechorMediaDeterminism.pdf, doi:10.4135/9781446215159.n355.  
+
+2. Benedict Du Boulay, T O’Shea e JOHN Monk. The black box inside the glass box: Presenting computing concepts to novices. Studying the novice programmer, 12:431– 446, 1989.   
+
+3. Fotis Georgatos. How applicable is Python as first computer language for teaching programming in a pre-university educational environment, from a teacher’s point of view? (June):135, 2008. URL: http://arxiv.org/abs/0809.1437, arXiv:0809.1437.  
+
+4. Shuchi Grover, Roy Pea e Stephen Cooper. Promoting active learning & le- veraging dashboards for curriculum assessment in an OpenEdX introductory CS course for middle school. Proceedings of the first ACM conference on Lear- ning @ scale conference - L@S ’14, pages 205–206, 2014. URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84899699274&partnerID=tZOtx3y1, doi:10.1145/2556325.2567883.  
+
+5. Shuchi Grover, Roy Pea e Stephen Cooper. Promoting active learning & le- veraging dashboards for curriculum assessment in an OpenEdX introductory CS course for middle school. Proceedings of the first ACM conference on Lear- ning @ scale conference - L@S ’14, pages 205–206, 2014. URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84899699274&partnerID=tZOtx3y1, doi:10.1145/2556325.2567883.  
+
+6. John Peterson e Alan Cleary. Functional Reactive Programming in K12 Education.
+
+7. Second International Workshop on Trends in Functional Programming in Education (TFPIE), pages 1–5, 2013.  
+
+8. G Rossum. Computer Programming for Everybody (Revised Proposal) A Scouting Expedition for the Programmers of Tomorrow. (August 1999), 1999.  
+
+9. Carol Spradling, Diana Linville, Michael P Rogers e Judy Clark. ARE MOOCS AN APPROPRIATE PEDAGOGY FOR TRAINING K-12 TEACHERS COMPU- TER SCIENCE CONCEPTS? pages 115–125, 2015.  
+
+10. Walter F. Tichy, Nico Habermann e Lutz Prechelt. Summary of the Dagstuhl workshop on future directions in software engineering, 1993. doi:10.1145/157397.157399.  
+
+11. Raspberry Pi Foundation. Raspberry Pi Resources, 2016 https://www.raspberrypi.org/resources/  
+
+12. Classroom for GitHub, GitHub, 2016 https://education.github.com/guide  
